@@ -1,0 +1,1 @@
+If the project doesn't load, in the menu bar navigate to Tools | CMake | Reload CMake Project and apply it
